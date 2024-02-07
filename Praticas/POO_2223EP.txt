@@ -1,0 +1,14 @@
+
+AlÃ­nea 1) ----------------------------------
+
+** Could not book rental of WAREHOUSE unit for client JoÃ£o Sousa [PERSONAL: 123456789].
+** Could not book rental of WAREHOUSE unit for client Arlindo Marques, Unipessoal [ENTERPRISE: 501234567].
+** Could not book rental of GARAGE unit for client JoÃ£o Sousa [PERSONAL: 123456789].
+** Could not book rental of GARAGE unit for client Ana Pereira [PERSONAL: 234567890].
+** Could not book rental of GARAGE unit for client Ana Pereira [PERSONAL: 234567890].
+
+** Current rentals
+Ana Pereira [PERSONAL: 234567890] - 
+Arlindo Marques, Unipessoal [ENTERPRISE: 501234567] - 
+A Tralha [ENTERPRISE: 501987654] - 
+JoÃ£o Sousa [PERSONAL: 123456789] - 

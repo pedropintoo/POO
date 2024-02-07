@@ -1,0 +1,24 @@
+
+Alínea 1) ----------------------------------
+
+Sabores Gostosos vai visitar 4 restaurantes
+A Volta do Churrasco vai visitar 3 restaurantes
+RESTAURANTES DE Sabores Gostosos: [Restaurante [nome=Carvao em Brasa, tipo=Churrasqueira], Restaurante [nome=Super Marios, tipo=Italiano], Restaurante [nome=Camarao Selvagem, tipo=Marisqueira], Restaurante [nome=Flower Taste, tipo=Vegetariano]]
+PASSEIOS DE VISITAS A Arquitetura Antiga: [Aqueduto, Igreja Velha]
+PASSEIOS DE VISITAS A Bares: [Canequinhas, Copos e Conversas]
+AGENCIA: Agencia Turistica Abaixo as Calorias
+	Atividade: [Atividade [num=102, nome=Sabores Gostosos], PasseioBicicleta [Canequinhas, Copos e Conversas], Atividade [num=100, nome=A Volta do Churrasco], PasseioBicicleta [Aqueduto, Igreja Velha]]
+TOTAL DE LOCAIS A VISITAR: 11
+
+Alínea 2) ----------------------------------
+
+AGENCIA: Agencia Turistica Tours4Eating
+	Atividade: [Atividade [num=10, nome=FingerFoodPlaces], PasseioBicicleta [IgrejaDeCima, IgrejaNova, IgrejaVelha], PasseioBicicleta [DEGEIT, DETI, DFIS], Atividade [num=11, nome=Pescarias], Atividade [num=12, nome=SnackBars], PasseioBicicleta [Ovar, SaoRoque]]
+Atividade [num=10, nome=FingerFoodPlaces]
+PasseioBicicleta [IgrejaDeCima, IgrejaNova, IgrejaVelha]
+PasseioBicicleta [DEGEIT, DETI, DFIS]
+Atividade [num=11, nome=Pescarias]
+Atividade [num=12, nome=SnackBars]
+PasseioBicicleta [Ovar, SaoRoque]
+-- LISTA DE LUGARES DA AGENCIA --
+DEGEIT, DETI, DFIS, IgrejaDeCima, IgrejaNova, IgrejaVelha, Ovar, SaoRoque, 

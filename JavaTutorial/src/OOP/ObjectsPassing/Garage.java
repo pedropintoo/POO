@@ -1,0 +1,8 @@
+package OOP.ObjectsPassing;
+
+public class Garage {
+
+    void park(Car car) {
+        System.out.println("The "+car.name+" is parked!");
+    }
+}

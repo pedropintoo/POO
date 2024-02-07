@@ -1,0 +1,208 @@
+Lista de equipas (68)
+[1° Dezembro (POR) / Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Carolina Mendes, tipo=Avancado *;* 
+  golosMarcados=0
+, Akhisar (TUR), treinada por unknown(1 jogadores)
+  robos= id=Custódio, tipo=Medio *;* 
+  golosMarcados=0
+, Apollon (CYP), treinada por unknown(1 jogadores)
+  robos= id=Bruno Vale, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Arouca (POR), treinada por unknown(1 jogadores)
+  robos= id=Artur, tipo=Medio *;* 
+  golosMarcados=0
+, Barcelona (ESP), treinada por unknown(1 jogadores)
+  robos= id=Andreia Norton, tipo=Avancado *;* 
+  golosMarcados=0
+, Belenenses (POR), treinada por unknown(1 jogadores)
+  robos= id=André Geraldes, tipo=Defesa *;* 
+  golosMarcados=0
+, Benfica (POR), treinada por unknown(1 jogadores)
+  robos= id=Alex Alfaiate, tipo=Defesa *;* 
+  golosMarcados=0
+, Benfica (POR) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=André Almeida, tipo=Defesa *;* 
+  golosMarcados=0
+, Benfica (POR) / Portugal FUT, treinada por unknown(1 jogadores)
+  robos= id=Anilton, tipo=Avancado *;* 
+  golosMarcados=0
+, Benfica (POR) / Portugal U19, treinada por unknown(1 jogadores)
+  robos= id=Buta, tipo=Avancado *;* 
+  golosMarcados=0
+, Benfica (POR) / Portugal U21, treinada por unknown(1 jogadores)
+  robos= id=Bruno Varela, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Benfica (POR) / Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Andreia Silvia, tipo=Avancado *;* 
+  golosMarcados=0
+, Boavista (POR), treinada por unknown(1 jogadores)
+  robos= id=Carlos Santos, tipo=Defesa *;* 
+  golosMarcados=0
+, Braga (POR), treinada por unknown(1 jogadores)
+  robos= id=André Pinto, tipo=Defesa *;* 
+  golosMarcados=0
+, CFR Cluj (ROU), treinada por unknown(1 jogadores)
+  robos= id=Camora, tipo=Defesa *;* 
+  golosMarcados=0
+, Chelsea (ENG) / Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Ana Borges, tipo=Defesa *;* 
+  golosMarcados=0
+, Differdange (LUX), treinada por unknown(1 jogadores)
+  robos= id=Adolfo Teixeira, tipo=Avancado *;* 
+  golosMarcados=0
+, Dnipro (UKR), treinada por unknown(1 jogadores)
+  robos= id=Bruno Gama, tipo=Medio *;* 
+  golosMarcados=0
+, Dynamo Kyiv (UKR) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Antunes, tipo=Defesa *;* 
+  golosMarcados=0
+, Estoril (POR), treinada por unknown(1 jogadores)
+  robos= id=Afonso Taira, tipo=Medio *;* 
+  golosMarcados=0
+, Fenerbahçe (TUR) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Bruno Alves, tipo=Defesa *;* 
+  golosMarcados=0
+, Fundão (POR) / Portugal FUT, treinada por unknown(1 jogadores)
+  robos= id=André Sousa, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Guimarães (POR), treinada por unknown(1 jogadores)
+  robos= id=Alex, tipo=Avancado *;* 
+  golosMarcados=0
+, Guimarães (POR) / Portugal U19, treinada por unknown(1 jogadores)
+  robos= id=Alexandre Silva, tipo=Avancado *;* 
+  golosMarcados=0
+, Inter (ESP) / Portugal FUT, treinada por unknown(1 jogadores)
+  robos= id=Cardinal, tipo=Avancado *;* 
+  golosMarcados=0
+, Iraklis (GRE), treinada por unknown(1 jogadores)
+  robos= id=Carlitos, tipo=Defesa *;* 
+  golosMarcados=0
+, Kasımpaşa (TUR), treinada por unknown(1 jogadores)
+  robos= id=André Castro, tipo=Medio *;* 
+  golosMarcados=0
+, Leiria (POR), treinada por unknown(1 jogadores)
+  robos= id=Abel Vagos, tipo=Defesa *;* 
+  golosMarcados=0
+, Linköping (SWE) / Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Cláudia Neto, tipo=Medio *;* 
+  golosMarcados=0
+, Litex (BUL), treinada por unknown(1 jogadores)
+  robos= id=Arsenio, tipo=Medio *;* 
+  golosMarcados=0
+, Liverpool (ENG) / Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Amanda Da Costa, tipo=Medio *;* 
+  golosMarcados=0
+, Marítimo (POR), treinada por unknown(1 jogadores)
+  robos= id=Alex Soares, tipo=Medio *;* 
+  golosMarcados=0
+, Monaco (FRA) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Bernardo Silva, tipo=Medio *;* 
+  golosMarcados=0
+, Moreirense (POR), treinada por unknown(1 jogadores)
+  robos= id=André Marques, tipo=Defesa *;* 
+  golosMarcados=0
+, Nacional (POR), treinada por unknown(1 jogadores)
+  robos= id=Aurélio, Luís, tipo=Medio *;* 
+  golosMarcados=0
+, Omonia (CYP), treinada por unknown(1 jogadores)
+  robos= id=Cristovão, tipo=Medio *;* 
+  golosMarcados=0
+, Ouriense (POR) / Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Bárbara Santos, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Paços Ferreira (POR), treinada por unknown(1 jogadores)
+  robos= id=Andrezinho, tipo=Medio *;* 
+  golosMarcados=0
+, Porto (POR), treinada por unknown(1 jogadores)
+  robos= id=André Mesquita, tipo=Avancado *;* 
+  golosMarcados=0
+, Porto (POR) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=André André, tipo=Medio *;* 
+  golosMarcados=0
+, Porto (POR) / Portugal U21, treinada por unknown(1 jogadores)
+  robos= id=André Silva, tipo=Avancado *;* 
+  golosMarcados=0
+, Portugal FUT, treinada por unknown(1 jogadores)
+  robos= id=André Coelho, tipo=Defesa *;* 
+  golosMarcados=0
+, Portugal U19, treinada por unknown(1 jogadores)
+  robos= id=André Ribeiro, André David, tipo=Avancado *;* 
+  golosMarcados=0
+, Portugal WOCO, treinada por unknown(1 jogadores)
+  robos= id=Adriana Rodrigues, tipo=Medio *;* 
+  golosMarcados=0
+, Portugal WU17, treinada por unknown(1 jogadores)
+  robos= id=Andreia Faria, tipo=Medio *;* 
+  golosMarcados=0
+, Portugal WU19, treinada por unknown(1 jogadores)
+  robos= id=Ana Oliveira, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Real Sociedad (ESP) / Portugal / Portugal U21, treinada por unknown(1 jogadores)
+  robos= id=Bruma, tipo=Medio *;* 
+  golosMarcados=0
+, Rio Ave (POR), treinada por unknown(1 jogadores)
+  robos= id=Aníbal Capela, tipo=Defesa *;* 
+  golosMarcados=0
+, Sant Julià (AND), treinada por unknown(1 jogadores)
+  robos= id=Bruninho, tipo=Avancado *;* 
+  golosMarcados=0
+, Servette (SUI), treinada por unknown(1 jogadores)
+  robos= id=Armando Mirra, tipo=Medio *;* 
+  golosMarcados=0
+, Setúbal (POR), treinada por unknown(1 jogadores)
+  robos= id=André Horta, tipo=Medio *;* 
+  golosMarcados=0
+, Sevilla (ESP) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Beto, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Sion (SUI), treinada por unknown(1 jogadores)
+  robos= id=Carlitos, tipo=Avancado *;* 
+  golosMarcados=0
+, Southampton (ENG) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Cédric, tipo=Defesa *;* 
+  golosMarcados=0
+, Sporting CP (POR), treinada por unknown(1 jogadores)
+  robos= id=André Martins, tipo=Medio *;* 
+  golosMarcados=0
+, Sporting CP (POR) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Adrien Silva, tipo=Medio *;* 
+  golosMarcados=0
+, Sporting CP (POR) / Portugal FUT, treinada por unknown(1 jogadores)
+  robos= id=Cristiano, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Sporting CP (POR) / Portugal U19, treinada por unknown(1 jogadores)
+  robos= id=Bubacar Djaló, tipo=Medio *;* 
+  golosMarcados=0
+, Sporting CP (POR) / Portugal U21, treinada por unknown(1 jogadores)
+  robos= id=Carlos Mané, tipo=Avancado *;* 
+  golosMarcados=0
+, Tondela (POR), treinada por unknown(1 jogadores)
+  robos= id=Bruno Monteiro, tipo=Medio *;* 
+  golosMarcados=0
+, Trabzonspor (TUR) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Bosingwa, José, tipo=Defesa *;* 
+  golosMarcados=0
+, Târgu Mureş (ROU), treinada por unknown(1 jogadores)
+  robos= id=Cesar Ribeiro, tipo=Defesa *;* 
+  golosMarcados=0
+, Udinese (ITA) / Portugal U21, treinada por unknown(1 jogadores)
+  robos= id=Bruno Fernandes, tipo=Medio *;* 
+  golosMarcados=0
+, União (POR), treinada por unknown(1 jogadores)
+  robos= id=Alves, Rafael, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, União (POR) / Portugal U21, treinada por unknown(1 jogadores)
+  robos= id=André Moreira, tipo=GuardaRedes *;* 
+  golosMarcados=0
+, Valencia (ESP) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=André Gomes, tipo=Medio *;* 
+  golosMarcados=0
+, White Bear (ENG) / Portugal FUT, treinada por unknown(1 jogadores)
+  robos= id=Arnaldo Pereira, tipo=Defesa *;* 
+  golosMarcados=0
+, Zenit (RUS) / Portugal, treinada por unknown(1 jogadores)
+  robos= id=Danny, tipo=Medio *;* 
+  golosMarcados=0
+]
+Lista de robôs (150)
+[id=Abel Vagos, tipo=Defesa, id=Adolfo Teixeira, tipo=Avancado, id=Adriana Rodrigues, tipo=Medio, id=Adrien Silva, tipo=Medio, id=Afonso Feteiro, tipo=Avancado, id=Afonso Taira, tipo=Medio, id=Alex, tipo=Avancado, id=Alex Alfaiate, tipo=Defesa, id=Alex Soares, tipo=Medio, id=Alexandre Silva, tipo=Avancado, id=Alfa Semedo, tipo=Defesa, id=Alves, Rafael, tipo=GuardaRedes, id=Amanda Da Costa, tipo=Medio, id=Ana Borges, tipo=Defesa, id=Ana Bral, tipo=Medio, id=Ana Oliveira, tipo=GuardaRedes, id=Ana Teixeira, tipo=Defesa, id=Andrade, Rúben, tipo=Medio, id=André Almeida, tipo=Defesa, id=André André, tipo=Medio, id=André Castro, tipo=Medio, id=André Coelho, tipo=Defesa, id=André Ferreira, tipo=GuardaRedes, id=André Geraldes, tipo=Defesa, id=André Gomes, tipo=Medio, id=André Horta, tipo=Medio, id=André Marques, tipo=Defesa, id=André Martins, tipo=Medio, id=André Mesquita, tipo=Avancado, id=André Micael, tipo=Defesa, id=André Moreira, tipo=GuardaRedes, id=André Nabais, tipo=Defesa, id=André Pinto, tipo=Defesa, id=André Ribeiro, André David, tipo=Avancado, id=André Silva, tipo=Avancado, id=André Sousa, tipo=GuardaRedes, id=André Sousa, tipo=Medio, id=Andreia Faria, tipo=Medio, id=Andreia Marques, tipo=Avancado, id=Andreia Norton, tipo=Avancado, id=Andreia Silvia, tipo=Avancado, id=Andreia Veiga, tipo=Medio, id=Andrezinho, tipo=Medio, id=Aníbal Capela, tipo=Defesa, id=Anilton, tipo=Avancado, id=Antonio Pereira, tipo=Avancado, id=Antunes, tipo=Defesa, id=Areias, tipo=Defesa, id=Areias, tipo=Avancado, id=Armando Mirra, tipo=Medio, id=Arnaldo Pereira, tipo=Defesa, id=Arsenio, tipo=Medio, id=Artur, tipo=Medio, id=Artur Jorge, tipo=Defesa, id=Assis, tipo=GuardaRedes, id=Aurélio, Luís, tipo=Medio, id=Baixinho, Marco, tipo=Medio, id=Banjaqui, Zidane, tipo=Medio, id=Bárbara Marques, tipo=Medio, id=Bárbara Marques, tipo=GuardaRedes, id=Bárbara Santos, tipo=GuardaRedes, id=Basto, Hugo, tipo=Defesa, id=Beatriz Vieira, tipo=Defesa, id=Bebe, tipo=GuardaRedes, id=Bernardo Silva, tipo=Medio, id=Betinho, tipo=Avancado, id=Beto, tipo=GuardaRedes, id=Borges, Micael, tipo=Avancado, id=Bosingwa, José, tipo=Defesa, id=Brandão, Gonçalo, tipo=Defesa, id=Brandão, Flávio, tipo=GuardaRedes, id=Briguel, tipo=Defesa, id=Bruma, tipo=Medio, id=Bruna Costa, tipo=Defesa, id=Bruninho, tipo=Avancado, id=Bruno Alves, tipo=Defesa, id=Bruno Alves, tipo=Medio, id=Bruno Coelho, tipo=Defesa, id=Bruno Costa, tipo=Avancado, id=Bruno Fernandes, tipo=Medio, id=Bruno Gama, tipo=Medio, id=Bruno Graça, tipo=Defesa, id=Bruno Lourenço, tipo=Medio, id=Bruno Miguel, tipo=Defesa, id=Bruno Monteiro, tipo=Medio, id=Bruno Pereira, tipo=Defesa, id=Bruno Pinto, tipo=Avancado, id=Bruno Quitério, tipo=Medio, id=Bruno Sousa, tipo=Defesa, id=Bruno Vale, tipo=GuardaRedes, id=Bruno Varela, tipo=GuardaRedes, id=Bubacar Djaló, tipo=Medio, id=Buta, tipo=Avancado, id=Cafú, tipo=Medio, id=Caio, André, tipo=GuardaRedes, id=Camará, Abel, tipo=Avancado, id=Camora, tipo=Defesa, id=Campos, Ricardo, tipo=GuardaRedes, id=Cardinal, tipo=Defesa, id=Cardinal, tipo=Avancado, id=Carlitos, tipo=Defesa, id=Carlitos, tipo=Avancado, id=Carlos Alves, tipo=GuardaRedes, id=Carlos Chaby, tipo=Medio, id=Carlos Mané, tipo=Avancado, id=Carlos Martins, tipo=Medio, id=Carlos Santos, tipo=Defesa, id=Carlota Cristo, tipo=Avancado, id=Carole Costa, tipo=Defesa, id=Carolina Ferreira, tipo=Medio, id=Carolina Mendes, tipo=Avancado, id=Carolina Rocha, tipo=Avancado, id=Carolina Rosa, tipo=Defesa, id=Carvalho, Ricardo, tipo=Defesa, id=Catarina Amado, tipo=Avancado, id=Catarina Balão, tipo=Defesa, id=Catarina Carmo, tipo=Medio, id=Catarina Pereira, tipo=Avancado, id=Catarina Realista, tipo=Medio, id=Catarina Sousa, tipo=Defesa, id=Cédric, tipo=Defesa, id=Cerqueira, Mauro, tipo=Defesa, id=Cesar Ribeiro, tipo=Defesa, id=Claro, tipo=Avancado, id=Cláudia Machado, tipo=Medio, id=Cláudia Neto, tipo=Medio, id=Cláudio Ramos, tipo=GuardaRedes, id=Côco, tipo=Avancado, id=Coentrão, Fábio, tipo=Defesa, id=Costa, Vasco, tipo=Medio, id=Cristian, tipo=Avancado, id=Cristiano, tipo=GuardaRedes, id=Cristiano Marques, tipo=GuardaRedes, id=Cristiano Rodrigues, tipo=Avancado, id=Cristovão, tipo=Medio, id=Custódio, tipo=Medio, id=Dálcio Gomes, tipo=Avancado, id=Dani, tipo=Medio, id=Dani, tipo=Defesa, id=Daniel Azevedo, tipo=GuardaRedes, id=Daniel Carriço, tipo=Medio, id=Daniel Esteves, tipo=Avancado, id=Daniel Podence, tipo=Medio, id=Danilo, tipo=Medio, id=Danny, tipo=Medio, id=Dany Marinho, tipo=Defesa, id=Dário Marquês, tipo=Avancado, id=David Sualehe, tipo=Defesa, id=Diana Gomes, tipo=Defesa, id=Diana Silva, tipo=Avancado]

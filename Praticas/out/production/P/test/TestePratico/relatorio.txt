@@ -1,0 +1,35 @@
+Longjing, China;Longjing, China;23.75;71.25
+Shenzhen, China;Shenzhen, China;3.28;3.28
+Taipei, Taiwan;Taipei, Taiwan;28.87;86.61
+Durban, South Africa;Durban, South Africa;11.64;34.92
+Stockholm, Sweden;Stockholm, Sweden;18.43;55.29
+Hamburg, Germany;Hamburg, Germany;1.16;1.16
+Montreal, Canada;Montreal, Canada;24.5;73.5
+Jakarta, Indonesia;Jakarta, Indonesia;17.81;53.42999999999999
+Dar es Salaam, Tanzania;Dar es Salaam, Tanzania;10.35;31.049999999999997
+Oslo, Norway;Oslo, Norway;28.21;84.63
+Dublin, Ireland;Dublin, Ireland;5.69;11.38
+Fukuoka, Japan;Fukuoka, Japan;3.11;3.11
+Amsterdam, Netherlands;Amsterdam, Netherlands;4.39;4.39
+Stuttgart, Germany;Stuttgart, Germany;0.12;0.12
+Brisbane, Australia;Brisbane, Australia;13.62;40.86
+Tehran, Iran;Tehran, Iran;15.08;45.24
+Auckland, New Zealand;Auckland, New Zealand;7.39;14.78
+Edmonton, Canada;Edmonton, Canada;25.2;75.6
+Rome, Italy;Rome, Italy;16.67;50.010000000000005
+Perth, Australia;Perth, Australia;12.03;36.089999999999996
+Seoul, South Korea;Seoul, South Korea;2.09;2.09
+Helsinki, Finland;Helsinki, Finland;27.17;81.51
+Vancouver, Canada;Vancouver, Canada;21.72;65.16
+Calgary, Canada;Calgary, Canada;26.9;80.69999999999999
+Zurich, Switzerland;Zurich, Switzerland;6.85;13.7
+Vienna, Austria;Vienna, Austria;19.59;58.769999999999996
+Sydney, Australia;Sydney, Australia;9.53;19.06
+San Francisco, USA;San Francisco, USA;22.23;66.69
+Madrid, Spain;Madrid, Spain;14.55;43.650000000000006
+Seattle, USA;Seattle, USA;0.69;0.69
+Aveiro;Aveiro;20.0;60.0
+Porto;Porto;12.0;36.0
+Viseu;Viseu;7.0;14.0
+Coimbra;Coimbra;2.0;2.0
+Portimão;Portimão;9.0;18.0

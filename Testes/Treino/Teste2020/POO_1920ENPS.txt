@@ -1,0 +1,53 @@
+
+Al�nea 1) ----------------------------------
+
+Livro 1 tem 4 autores
+Livro 2 tem 3 autores
+TOTAL DE PRODUTOS DO MERCADO: 0
+Descri��o de electr1 :Frigor�fico:Bosch/XPTO
+AUTORES DE Livro 1: [Autor 2 (2000-), Autor 4 (2018-), Autor 1 (2000-), Autor 3 (2010-)]
+TOTAL DE PRODUTOS DO MERCADO: 562
+Unidades insuficientes! S� tem 3 em stock.
+Vendidos 100 unidades de "Livro 2". Passou a ter 351
+TOTAL DE PRODUTOS DO MERCADO: 462
+
+Loja ePOO -  Loja Online
+
+Código Produto                                  Em Stock          PVP 
+ E1034 Frigor�fico:Bosch/XPTO                          1       959,40 
+ E1036 Fog�o:AEG/XYZ                                   1       520,29 
+ E1040 Televisor:LG/MODEL X                            6       553,50 
+ L1030 Livro 1                                       100        15,90 
+ L1032 Livro 2                                       351        24,38 
+ T1038 Motorola/XWZ Model A                            3       688,80 
+
+Informa��o sobre Frigor�fico:
+Electrodomestico [E1034 Frigor�fico Bosch XPTO A 1000.0 W]
+Informa��o sobre Telem�vel:
+Telemovel [T1038: Motorola - XWZ Model A [Melhor Compra 2019, Em promo��o]]
+
+Al�nea 2) ----------------------------------
+
+Loja LOOP - Loja Orientada a Objetos
+
+Código Produto                                  Em Stock          PVP 
+ L1054 Alice no País das Maravilhas                    8        13,78 
+ T1042 Apple/iPhone 8                                  2      1230,00 
+ E1048 Fogão:Jocel/ASD                                 5       332,10 
+ E1046 Fogão:Siemens/XPTO                              4       553,50 
+ L1052 Fundamentos de Programação em Java              7        28,62 
+ L1050 Livro 3                                         6        21,20 
+ T1044 Nokia/XXX                                       3       861,00 
+ E1058 Televisor:NO BRAND/YYY                         10       553,50 
+ E1056 Televisor:SONY/KX                               9       492,00 
+
+Lista de Todos os Produtos com PVP superior a 500 Euros:
+Apple/iPhone 8                    1230,00 Euros
+Fogão:Siemens/XPTO                 553,50 Euros
+Nokia/XXX                          861,00 Euros
+Televisor:NO BRAND/YYY             553,50 Euros
+
+Lista de Electrodom�sticos com Classe A:
+Fogão:Siemens/XPTO                 553,50 Euros A
+Televisor:SONY/KX                  492,00 Euros A
+

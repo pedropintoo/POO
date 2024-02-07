@@ -1,0 +1,42 @@
+
+Alínea 1) ----------------------------------
+
+User gabggcgc [id: -2] accessed digital object DOI: 10.0000/fake/10.1496/iugbzov; Created: 2023-06-30; Level: Low; Public
+
+Registered users:
+  * sunnyday12 [id: 0]
+  * techguru123 [id: 1]
+  * musiclover87 [id: 2]
+
+Digital objects of user sunnyday12 [id: 0]:
+  * DOI: 10.0000/fake/10.10154/knnweak; Created: 2023-06-30; Level: Personal; 
+  * DOI: 10.0000/fake/10.8872/okklnjd; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.1496/iugbzov; Created: 2023-06-30; Level: Low; Public
+  * DOI: 10.0000/fake/10.3496/ugxwwsh; Created: 2023-06-30; Level: Personal; 
+  * DOI: 10.0000/fake/10.10213/ykbojmc; Created: 2023-06-30; Level: Personal; 
+
+
+Alínea 2) ----------------------------------
+
+
+Finished reading file.
+
+
+Users with access to digital object 10.0000/fake/10.1166/nmqkyjb
+  * techguru123 [id: 4]
+  * sunnyday12 [id: 3]
+  * musiclover87 [id: 5]
+
+Objects shared with user musiclover87 [id: 5]
+  * DOI: 10.0000/fake/10.5738/lfzfwbc; Created: 2023-06-30; Level: Personal; 
+  * DOI: 10.0000/fake/10.5255/uuskddr; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.9132/vfnaplb; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.1250/ewscxxs; Created: 2023-06-30; Level: Personal; 
+  * DOI: 10.0000/fake/10.10200/xhuwxpi; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.4693/auyejmr; Created: 2023-06-30; Level: Low; 
+  * DOI: 10.0000/fake/10.1166/nmqkyjb; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.3496/ugxwwsh; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.10213/ykbojmc; Created: 2023-06-30; Level: Restricted; 
+  * DOI: 10.0000/fake/10.7279/mwejthk; Created: 2023-06-30; Level: Restricted; 
+
+
